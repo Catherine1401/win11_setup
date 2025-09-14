@@ -16,3 +16,6 @@ choco install microsoft-office-deployment -y
 
 # install zalo
 choco instal zalopc
+
+# instal visual studio
+choco install visualstudio2022enterprise -y
