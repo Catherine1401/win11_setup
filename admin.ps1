@@ -13,3 +13,6 @@ choco install Unikey -y
 
 # install office
 choco install microsoft-office-deployment -y
+
+# install zalo
+choco instal zalopc
