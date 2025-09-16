@@ -18,6 +18,9 @@ scoop bucket add nerd-fonts
 # install font
 scoop install JetBrainsMono-NF
 
+# install find tool
+scoop install fd
+
 # install which
 scoop install which
 
