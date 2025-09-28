@@ -48,6 +48,10 @@ scoop install sublime-text
 # install xampp
 scoop install xampp
 
+# install laravel
+scoop install composer
+composer global require laravel/installer
+
 # install vscode
 scoop install vscode
 
@@ -76,3 +80,4 @@ flutter doctor --android-licenses
 # install color picker
 scoop install jcpicker
 
+cd ~
