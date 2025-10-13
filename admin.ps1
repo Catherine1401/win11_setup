@@ -18,3 +18,6 @@ choco instal zalopc
 
 # instal visual studio
 choco install visualstudio2022enterprise -y
+
+# install star uml
+choco install staruml -y
