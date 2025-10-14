@@ -80,4 +80,7 @@ flutter doctor --android-licenses
 # install color picker
 scoop install jcpicker
 
+# install cursor
+scoop install cursor
+
 cd ~
