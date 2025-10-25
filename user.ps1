@@ -81,6 +81,6 @@ flutter doctor --android-licenses
 scoop install jcpicker
 
 # install cursor
-scoop install cursor
+# scoop install cursor
 
 cd ~

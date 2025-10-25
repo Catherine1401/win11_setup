@@ -21,3 +21,9 @@ choco install visualstudio2022enterprise -y
 
 # install star uml
 choco install staruml -y
+
+# install cursor
+winget install 9NBLGGH4XJL7
+
+# install ultraviewer
+choco install ultraviewer
