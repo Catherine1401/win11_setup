@@ -27,3 +27,6 @@ winget install 9NBLGGH4XJL7
 
 # install ultraviewer
 choco install ultraviewer
+
+# install coccoc
+winget install coccoc.coccoc -y
