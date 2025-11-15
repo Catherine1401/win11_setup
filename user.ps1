@@ -83,4 +83,7 @@ scoop install jcpicker
 # install cursor
 # scoop install cursor
 
+# install obs studio
+scoop install obs-studio
+
 cd ~
