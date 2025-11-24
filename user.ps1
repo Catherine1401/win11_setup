@@ -20,12 +20,14 @@ scoop install JetBrainsMono-NF
 
 # install find tool
 scoop install fd
+scoop install ripgrep
+scoop install fzf
 
 # install which
 scoop install which
 
-# install fuzzy finder
-scoop install fzf
+# instal curl
+scoop install curl
 
 # install touch
 scoop install touch
@@ -85,5 +87,19 @@ scoop install jcpicker
 
 # install obs studio
 scoop install obs-studio
+
+# for treesetter
+npm install -g tree-sitter-cli
+
+# install rust
+scoop install rustup
+rustup install nightly
+rustup defalut nightly
+
+# install make
+scoop install make
+
+# install obsidian
+scoop install obsidian
 
 cd ~
