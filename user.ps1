@@ -102,4 +102,7 @@ scoop install make
 # install obsidian
 scoop install obsidian
 
+# install postgresql
+scoop install postgresql
+
 cd ~
